@@ -1,0 +1,6 @@
+{
+  "name": "WE THE BEST CUTZ - Chicago Ridge Barber Studio",
+  "description": "Premium modern barbershop in Chicago Ridge, IL offering master skin fades, bespoke beard sculpting, hot towel shaves, and executive grooming rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
